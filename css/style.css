@@ -2,7 +2,8 @@
  * Bootstrap overrides
  */
 body {
-  text-align: center;
+    text-align: center;
+    background-image:url('../images/light_honeycomb.png');
 }
 .container {
   /* Set max page width */
